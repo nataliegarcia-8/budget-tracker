@@ -17,18 +17,13 @@ This application can be used to track everyday money transactions for users to m
 ## Links
 Github Repo: https://github.com/nataliegarcia-8/budget-tracker
 
-Deployed Site: https://obscure-plains-26943.herokuapp.com/?id=5f7f22dd385afc0017ee7e6c
+Deployed Site: https://agile-garden-62025.herokuapp.com/
 
 
 ## Screenshots
-home page:
+Budget Tracker Website:
 <img src="img/home.png" alt="home screen image">
 
-workout page:
-<img src="img/workout.png" alt="home screen image">
-
-dashboard: 
-<img src="img/dash.png" alt="home screen image">
 
 ## Questions 
 ### If you have any questions please contact me at:
